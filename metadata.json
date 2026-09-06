@@ -1,0 +1,10 @@
+{
+  "name": "Remix Vision Sync",
+  "description": "Real-time ocular biometric tracking and comprehensive 18-emotion affective spectrum analyzer synthesizing reactive ambient music.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
